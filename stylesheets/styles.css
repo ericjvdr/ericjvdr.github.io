@@ -1,0 +1,41 @@
+body {
+  background-color: #181818;
+  color: white;
+  text-align: center;
+}
+
+ol {
+  font-size: 30px;
+  list-style-position: inside;
+  list-style-type: upper-alpha;
+}
+
+ul {
+  background: #89B7D9;
+  font-size: 30px;
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+img {
+  max-height: 600px;
+  max-width: 600px;
+}
+
+nav {
+  background: white;
+  font-size: 30px;
+}
+
+a:hover {
+  color: #0BDE30
+}
+
+.signature {
+  font-family: 'Rock Salt', cursive;
+  font-size: 30px;
+}
